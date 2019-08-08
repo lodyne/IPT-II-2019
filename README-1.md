@@ -27,17 +27,21 @@ generalizing from known examples/inputs.
 
 There are various problems in which ML can solve including:-
 
+### Supervised Machine Learning
+
 ``` ### Supervised Machine Learning
 
 In which the user provides the algorithms with pairs of input data and desired outputs,
 and the algorithm finds a way to produce desired output given a set of new inputs.
-Eg of Supervised ML are Spam emails detection,Tumor determination and Fraud detection in credit card transactions
+Eg of Supervised ML are Spam emails detection,Tumor detection and Fraud detection in credit card transactions.
 ```
+
+### Unsupervised Machine Learning
 
 ```### Unsupervised Machine Learning
 
 In which only the input data is known, and no known output is given to the algorithm.
-Eg of Unsupervised ML are identifying topics in blog posts, customer's segmentation according to their preferences
+Eg of Unsupervised ML are identifying topics in blog posts,customer's segmentation according to their preferences
 and detecting abnormal access patterns in website.
 ```
 
@@ -67,6 +71,8 @@ In Python 2 print function is written as print 'Hello' while in Python 3 it is w
 
 * try and except blocks
 
+### Python 2
+
 ```In Python 2
 
     try
@@ -74,6 +80,8 @@ In Python 2 print function is written as print 'Hello' while in Python 3 it is w
     except NameError,err
         \\statement
 ```
+
+### Python 3
 
 ```In Python 3
 
