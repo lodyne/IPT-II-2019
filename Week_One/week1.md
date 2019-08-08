@@ -93,4 +93,4 @@ In Python 2 print function is written as print 'Hello' while in Python 3 it is w
 
 ## Reference
 
-[Introduction to Machine Learning with Python A Guide for Data Scientists chapter 1, 2 and 4](https://github.com/amueller/introduction_to_ml_with_python)
+[Introduction to Machine Learning with Python A Guide for Data Scientists](https://github.com/amueller/introduction_to_ml_with_python)
