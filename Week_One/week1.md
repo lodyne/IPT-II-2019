@@ -41,8 +41,8 @@ Eg of Supervised ML are Spam emails detection,Tumor detection and Fraud detectio
 ```### Unsupervised Machine Learning
 
 In which only the input data is known, and no known output is given to the algorithm.
-Eg of Unsupervised ML are identifying topics in blog posts,customer's segmentation according to their preferences
-and detecting abnormal access patterns in website.
+Eg of Unsupervised ML are identifying topics in blog posts,customer's segmentation
+according to their preferences and detecting abnormal access patterns in website.
 ```
 
 ## Why Python
