@@ -27,4 +27,4 @@ the training set and obtain a model that works well on the training set but it i
 to generalize to new data.
 
 * **Underfitting** occurs if the model is to simple and might not be able to capture all the
-aspects of and variability on the data and thre model will do badly even on the traing set.
+aspects of and variability on the data and the model will do badly even on the training set.
