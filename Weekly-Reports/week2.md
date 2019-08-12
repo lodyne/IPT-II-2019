@@ -10,8 +10,8 @@ and speeds up a labourious or infeasible task.
 
 ## Types of Supervised Machine Learning
 
-1.**Classification** -predict class model
-2.**Regression** - predict continous number
+1. **Classification** -predict class model
+2. **Regression** - predict continous number
 
 ## Generalization,Overfitting and Underfitting
 
